@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564763591070",
+    "project_id": "stresalarm",
+    "storage_bucket": "stresalarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564763591070:android:d26d4d323892ea79df168f",
+        "android_client_info": {
+          "package_name": "com.stresalarm.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc3MhLRM1wwdMNVS-HFkrYt_dIrfiS7pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
